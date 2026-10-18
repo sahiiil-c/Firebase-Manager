@@ -1,4 +1,4 @@
-# 🔥 Firebase Database Manager — Multi-Role Admin Panel
+# 🔥 Firebase Manager — Multi-Role Admin Panel
 
 A full-featured **Firebase Firestore management web app** built with Python and Streamlit, featuring **Google OAuth 2.0 authentication** and **role-based access control** (Admin & Client).
 
